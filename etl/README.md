@@ -185,4 +185,3 @@ Passing `palette` without assigning `hue` is deprecated and will be removed in v
 - Графики: ![1](report/graphs/category_revenue.png) 
 - ![2](report/graphs/monthly_dynamics.png) 
 - ![3](report/graphs/pie_chart.png).
-- Логи выполнения:[logs/etl.log](logs/etl.log).
